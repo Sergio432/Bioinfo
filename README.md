@@ -1,2 +1,2 @@
 # Bioinfo
-prueba propia con un nuevo template
+template ya hecho, solo para editar
